@@ -1,24 +1,25 @@
-## 👋 Hey there! I'm Mehdi BOUCHACHI
+# Harsh12Codes / README.md  
 
-🚀 **Frontend Specialist (React/Next.js) | Backend Enthusiast (Node.js, Express, Supabase)**  
-💻 Passionate about web development, open-source, and building high-performance applications.  
-📚 Experienced in Java, C, JavaScript, and all things frontend.  
+![Header](https://your-image-link.com) <!-- Add a pixel-art or tech-themed banner -->
 
----
+## 👋 About Me:
 
-### 🌱 Currently Learning
-- Advanced **Node.js & Express.js** for backend development.
-- Optimizing performance with **Supabase & SQL databases**.
-- Exploring **AI & ML integrations** with web applications.
+- 🚀 Frontend Specialist (React/Next.js)
+- 🔧 Backend Learning (Node.js, Express.js, Supabase)
+- 🎨 Designer & Logo Creator
+- 💡 Passionate about open-source & web development
+- 📫 Reach me at: **mehdibch.dev@gmail.com**
+- 🏆 Fun fact: I enjoy playing chess & watching anime.
 
 ---
 
 ## 📊 Weekly Development Breakdown
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MehdiBouchachi&layout=compact&theme=radical)
+<!-- WakaTime Widget -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MehdiBouchachi&layout=compact&theme=radical)
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,19 +33,19 @@
 ---
 
 ## 🚀 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehdiBouchachi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiBouchachi&layout=compact&theme=radical)
 
 ---
 
 ## 📌 Open Source Contributions
 - 🔥 Contributing to **React/Next.js projects**.
 - 🛠 Building **Supabase-integrated applications**.
-- 🚀 Exploring **AI-enhanced web development**.
+- 🎨 Creating **logos and UI/UX designs**.
 
 ---
 
-## 📫 Reach Me
+## 📫 Reach Me:
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehdibch.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-bouchachi-79a874281/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MehdiBchh)
