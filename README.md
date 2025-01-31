@@ -28,25 +28,9 @@
 
 ## 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehdiBouchachi&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide=prs,issues&custom_title=Mehdi%20Bouchachi%27s%20GitHub%20Stats" width="48%" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiBouchachi&layout=compact&theme=blueberry&langs_count=6&hide=handlebars" width="48%" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=MehdiBouchachi&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide=prs,issues&custom_title=Mehdi%20Bouchachi%27s%20GitHub%20Stats" width="49%" height="220px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiBouchachi&layout=compact&theme=blueberry&langs_count=6&hide=handlebars" width="49%" height="220px">
 </p>
-
----
-
-## 📌 Open Source Contributions
-- 🔥 Contributing to **React/Next.js projects**.
-- 🛠 Building **Supabase-integrated applications**.
-- 🎨 Creating **logos and UI/UX designs**.
-
----
-
-## 📫 Reach Me:
-[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehdibch.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-bouchachi-79a874281/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MehdiBchh)
-
-🔥 *Let's build something amazing together!* 🚀
 
 ---
 
