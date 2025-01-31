@@ -1,6 +1,6 @@
 # Harsh12Codes / README.md  
 
-![Header](https://your-image-link.com) <!-- Add a pixel-art or tech-themed banner -->
+![Header]([https://your-image-link.com](https://github.com/MehdiBouchachi/MehdiBouchachi/blob/main/Artboard%2033.png)) <!-- Add a pixel-art or tech-themed banner -->
 
 ## 👋 About Me:
 
