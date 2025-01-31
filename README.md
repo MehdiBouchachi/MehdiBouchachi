@@ -14,7 +14,7 @@
 ---
 
 ## 📊 Weekly Development Breakdown
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourwakatimeusername&layout=compact&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MehdiBouchachi&layout=compact&theme=radical)
 
 ---
 
