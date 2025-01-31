@@ -9,7 +9,7 @@
 - 🎨 Designer & Logo Creator
 - 💡 Passionate about open-source & web development
 - 📫 Reach me at: **mehdibch.dev@gmail.com**
-- 🏆 Fun fact: I enjoy playing chess & watching anime.
+- 🏆 Fun fact: I enjoy building complex websites.
 
 ---
 
