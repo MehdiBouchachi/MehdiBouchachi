@@ -29,7 +29,7 @@
 ## 🚀 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MehdiBouchachi&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide=prs,issues&custom_title=Mehdi%20Bouchachi%27s%20GitHub%20Stats" width="49%" height="100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiBouchachi&layout=compact&theme=blueberry&langs_count=6&hide=handlebars" width="48%" height="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiBouchachi&layout=compact&theme=blueberry&langs_count=6&hide=handlebars" width="48%" height="80%">
 </p>
 ---
 
