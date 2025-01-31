@@ -1,4 +1,4 @@
-# Harsh12Codes / README.md  
+# Mehdi Bouchachi
 
 ![Header](https://github.com/MehdiBouchachi/MehdiBouchachi/blob/main/Artboard%2033.png) <!-- Add a pixel-art or tech-themed banner -->
 
