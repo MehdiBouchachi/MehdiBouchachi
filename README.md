@@ -1,6 +1,6 @@
 # Mehdi Bouchachi
 
-![Header](https://github.com/MehdiBouchachi/MehdiBouchachi/blob/main/pixel-art-kirokaze-04.gif) <!-- Add a pixel-art or tech-themed banner -->
+<img src="https://github.com/MehdiBouchachi/MehdiBouchachi/blob/main/pixel-art-kirokaze-04.gif" width="100%" height="200px">  <!-- Add a pixel-art or tech-themed banner -->
 
 ## 👋 About Me:
 
