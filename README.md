@@ -1,4 +1,4 @@
-# Mehdi Bouchachi
+# 😀 Hello there!
 
 <img src="https://github.com/MehdiBouchachi/MehdiBouchachi/blob/main/pixel-art-kirokaze-04-ezgif.com-resize.gif" width="100%" height="200px">  <!-- Add a pixel-art or tech-themed banner -->
 ## 👋 About Me:
